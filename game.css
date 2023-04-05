@@ -1,0 +1,18 @@
+.option-container{
+    display: flex;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    font-size: 2rem;
+    border: 0.1 rem solid indigo;
+    background-color: white;
+}
+
+.option-no{
+    padding: 1.5rem 2.5rem;
+    background-color: blueviolet;
+    color: white;
+}
+
+.choice{
+    padding: 1.5rem ;
+}
